@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28d40e72-7215-41a9-8a1a-0c0ece0ab007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_MyLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_MyLinkedList/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_MyList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_MyList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_MyGenericStack/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_MyGenericStack/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_BinarySearch/findMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_shape/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstractclass/tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_Calculator/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_Cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_Cylinder/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_FizzBuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_FizzBuzz/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_SimpleCalculator/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss9_SimpleCalculator/SimpleCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstractclass/Person.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oWJjuC0ofmVrAJPHshF8Mfmhdd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.BodyMassIndex.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.ConvertTemperature.executor": "Run",
+    "Application.DayOfMonth.executor": "Run",
+    "Application.DemoMain.executor": "Run",
+    "Application.GenericStackClient.executor": "Run",
+    "Application.Geometry.executor": "Run",
+    "Application.Geometry1.executor": "Run",
+    "Application.GreatestCommonFactor.executor": "Run",
+    "Application.Interest.executor": "Run",
+    "Application.LeapYearCalculator.executor": "Run",
+    "Application.LinearEquationResolver.executor": "Run",
+    "Application.MyListTest.executor": "Run",
+    "Application.NumberArray.executor": "Run",
+    "Application.NumberArray1.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.QuadraticEquation.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Student1.executor": "Run",
+    "Application.StudentArray.executor": "Run",
+    "Application.SystemTime.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestCircle.executor": "Run",
+    "Application.TestMyLinkedList.executor": "Run",
+    "Application.VariableDataType.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.findMaximum.executor": "Run",
+    "Application.hienthiloichao.executor": "Run",
+    "Application.main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.FizzBuzzTest.executor": "Run",
+    "JUnit.SimpleCalculatorTest.executor": "Run",
+    "JUnit.ss9_SimpleCalculator in module2.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.findMaximum">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss13_BinarySearch.BinarySearch" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss13_BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericStackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_MyGenericStack.GenericStackClient" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_MyGenericStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_MyList.MyListTest" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss10_MyList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_MyLinkedList.TestMyLinkedList" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss10_MyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss13_BinarySearch.findMaximum" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss13_BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.findMaximum" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.GenericStackClient" />
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.MyListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d40e72-7215-41a9-8a1a-0c0ece0ab007" name="Changes" comment="" />
+      <created>1730979538121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730979538121</updated>
+      <workItem from="1730979539224" duration="6293000" />
+      <workItem from="1731152596921" duration="7979000" />
+      <workItem from="1731411193498" duration="8321000" />
+      <workItem from="1731583890874" duration="5043000" />
+      <workItem from="1731756578877" duration="7035000" />
+      <workItem from="1732017161975" duration="4902000" />
+      <workItem from="1732189880017" duration="5393000" />
+      <workItem from="1732621291188" duration="4408000" />
+      <workItem from="1732794036204" duration="6399000" />
+      <workItem from="1732967045472" duration="178000" />
+      <workItem from="1733226397786" duration="2769000" />
+      <workItem from="1733398471702" duration="38000" />
+      <workItem from="1733398519686" duration="90000" />
+      <workItem from="1733398622852" duration="5809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
